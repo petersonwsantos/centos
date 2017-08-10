@@ -11,10 +11,12 @@ Images are generated from kickstart scripts in the [virti-docker-centos-build-sc
 
 Supported tags and respective Dockerfile links
 
-latest , 7 ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-7/docker/Dockerfile) )
-            6 ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-6/docker/Dockerfile) )
+Centos 7 ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-7/docker/Dockerfile) ) tag: latest , 7 
+
+Centos 6 ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-6/docker/Dockerfile) ) tag: 6
   
- ** Usage:**
+
+** Usage:**
  
  $ docker pull petersonwsantos/centos:latest
  
