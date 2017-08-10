@@ -13,13 +13,15 @@ Supported tags and respective Dockerfile links
 
 Centos 7 ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-7/docker/Dockerfile) ) tag: latest , 7 
 
+  Usage: 
+
+  $ docker pull petersonwsantos/centos:latest
+ 
+  $ docker pull petersonwsantos/centos:7
+
 Centos 6 ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-6/docker/Dockerfile) ) tag: 6
-  
 
-** Usage:**
- 
- $ docker pull petersonwsantos/centos:latest
- 
- $ docker pull petersonwsantos/centos:7
+  Usage: 
 
- $ docker pull petersonwsantos/centos:6
+  $ docker pull petersonwsantos/centos:7
+ 
