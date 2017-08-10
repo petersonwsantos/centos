@@ -13,7 +13,9 @@ Supported tags and respective Dockerfile links
 
 Release     |     Tag     |  Dockerfile
 ------------+-------------+--------------------------- 
+
 Centos 7    | 7 or latest | ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-7/docker/Dockerfile) ) 
+
 Centos 6    | 6           | ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-6/docker/Dockerfile) )
 
 
