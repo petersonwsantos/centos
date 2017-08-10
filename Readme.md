@@ -11,9 +11,9 @@ Images are generated from kickstart scripts in the [virti-docker-centos-build-sc
 
 Supported tags and respective Dockerfile links
 
-latest, centos7, 7 ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-7/docker/Dockerfile) )
+latest , 7 ( [docker/Dockerfile](https://github.com/petersonwsantos/centos/blob/centos-7/docker/Dockerfile) )
  
- ** Usage:***
+ ** Usage:**
  
  $ docker pull petersonwsantos/centos:latest
  
